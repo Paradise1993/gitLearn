@@ -6,6 +6,9 @@
 //  Copyright © 2016年 falcon. All rights reserved.
 //
 
+//Git is a distributed version control system.
+//Git is free software.
+
 #import "ViewController.h"
 
 @interface ViewController ()
